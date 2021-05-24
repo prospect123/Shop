@@ -1,1 +1,1 @@
-
+pkill -f runserver
