@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-    -source: /ind
+    -source: /shop
     destination: /var/www/html/
