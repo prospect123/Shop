@@ -1,2 +1,1 @@
 
-pkill supervisord
